@@ -1,4 +1,4 @@
-***ELECTROMANIA- 2K20
+***ELECTROMANIA- 2K20***
 
 **INNODEV**
 
@@ -30,9 +30,9 @@ detect both text and source code plagiarism.
 
 2.DJANGO WEB-FRAMEWORK(for backend)
 
-##PROPOSED FEATURES(According to given Problem Statement)-
+**PROPOSED FEATURES(According to given Problem Statement)-**
 
-Show plagiarism score.
+- Show plagiarism score.
 - Login/ Signup for user 
 - Allow multiple file formats in the user interface.
 - Give an option for plagiarism check from a specific source. Ex:-
