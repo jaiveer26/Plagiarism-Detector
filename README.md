@@ -1,4 +1,4 @@
-# ## ***DÉJÀ-VU***
+# ***DÉJÀ-VU***
 ( A project under **INNODEV ( ELECTROMANIA- 2020 )** )
 
 ## **TEAM NAME - "LA CASA DEL CODIGO"**
@@ -14,7 +14,7 @@
 3. NAMAN GUPTA
 20196036 - PIE (2ND YEAR)
 
-## ** PROBLEM STATEMENT **
+## **PROBLEM STATEMENT**
 
 Nikhil's startup has just finished their first round of hiring. He has been
 informed that the invigilation was not up to the mark. The test contained both
@@ -51,7 +51,7 @@ A basic python API developed on django platform for calculating similarity perce
 - Report will consist of the plagiarism percentage along with the highlighted text showing the common text from both the input text and the reference text.
 
 
-## ***Various Libraries, Modules and Technologies Used- ***
+## ***Various Libraries, Modules and Technologies Used-:***
 
 - **For uploading various file formats-**
   1. doc2txt
