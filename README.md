@@ -1,4 +1,4 @@
-***ELECTROMANIA- 2K20***
+# ***ELECTROMANIA- 2K20***
 
 **INNODEV**
 
@@ -47,9 +47,9 @@ ADDITIONAL FEATURES OR FUTURE PROSPECTS.
 A basic python API developed on django platform for calculating similarity percentage/plagiarism percentage between original and reference code in which the user needs to either enter the reference code manually, upload the file or can upload the link of the reference code from some of the online sites like GFG, Medium,         etc.  
 
 ***To run the project on your system-:***
--Clone the repo on to your system.
--Add all the requirements to your system as like the modules and all the libraries.
--You can use a virtual environment if you want to keep your development environment seperate.
+- Clone the repo on to your system.
+- Add all the requirements to your system as like the modules and all the libraries.
+- You can use a virtual environment if you want to keep your development environment seperate.
 
 Change directory to inno and run the following command.
 >python manage.py runserver
