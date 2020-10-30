@@ -39,6 +39,7 @@ detect both text and source code plagiarism.
   
 ## **ADDITIONAL FEATURES FOR FUTURE PROSPECTS.**
 - Provide APIs for platform integrations.
+- Option for recent tab to show user's past action.
 
 
 ## ***ABOUT DEJA-VU-***
