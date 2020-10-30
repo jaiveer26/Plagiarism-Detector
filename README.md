@@ -23,9 +23,9 @@ detect both text and source code plagiarism.
 
 ## **TECH STACK**
 
-1.HTML , CSS , Bootstrap and JS (for frontend)
+1. HTML , CSS , Bootstrap and JS (for frontend)
 
-2.DJANGO WEB-FRAMEWORK(for backend)
+2. DJANGO WEB-FRAMEWORK(for backend)
 
 ## **PROPOSED FEATURES(According to given Problem Statement)-**
 
