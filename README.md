@@ -34,11 +34,12 @@ detect both text and source code plagiarism.
 - Allow multiple file formats in the user interface.
 - Give an option for plagiarism check from a specific source. Ex:-
       medium, GFG etc.
+- Download and share options for generated reports. 
+- Give a detailed report about percentage similarities and reference.      
   
 ## **ADDITIONAL FEATURES FOR FUTURE PROSPECTS.**
 - Provide APIs for platform integrations.
-- Give a detailed report about percentage similarities and reference.
-- Download and share options for generated reports. 
+
 
 ## ***ABOUT DEJA-VU-***
 
