@@ -90,6 +90,21 @@ Change directory to inno and run the following command.
 Now, paste `http://127.0.0.1:8000` on web browser and enjoy our app.
 This link, by default, will take the user to home page.
 
+##**Here are the some of the screenshotf from our app.**
+1. **Home Page**
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home1.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home2.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home3.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home4.jpeg?raw=true)
+    
+2. **Login Page** 
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/login.jpeg?raw=true)
+
+3. **Register Page**      
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/register.jpeg?raw=true)
+
+4. **Final Report Generation Page**
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/generate_report.jpeg?raw=true)
 
 
 ### ***Thank You for your valuable time.***
