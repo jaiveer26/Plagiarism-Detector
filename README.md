@@ -1,7 +1,8 @@
 # ***DÉJÀ-VU***
-( A project under **INNODEV ( ELECTROMANIA- 2021 )** )
+( A project under **INNODEV ( ELECTROMANIA- 2020 )** )
 
 JAIVEER SINGH
+NAMAN GUPTA
 20193088 - MECH 
 
 ## **PROBLEM STATEMENT**
