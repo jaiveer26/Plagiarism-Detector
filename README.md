@@ -1,10 +1,6 @@
 # ***DÉJÀ-VU***
 ( A project under **INNODEV ( ELECTROMANIA- 2021 )** )
 
-## **TEAM NAME - "LA CASA DEL CODIGO"**
-
-## **TEAM DETAILS-**
-
 JAIVEER SINGH
 20193088 - MECH 
 
